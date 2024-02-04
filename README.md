@@ -5,7 +5,7 @@
  ## This Course consists of 1 Task:
  ---
  
- 1. ### Task One: Crack Leaked Password Database
+### Task One: Crack Leaked Password Database
     - #### This Tasks challanges you to use a given document with leaked passwords that are encrypted and discover the passwords inside of it using a hashing algorithm or an external hacking/cryptography software. I completed this by creating an algorithm that splits the file and writes to another copy of it with the password found using the software Hashcat.
 
 [Goldman Sachs Software Engineering Certificate.pdf](https://github.com/Robbo30/SoftwareEngineering---Goldman-Sachs/files/14157852/Goldman.Sachs.Software.Engineering.Certificate.pdf)
